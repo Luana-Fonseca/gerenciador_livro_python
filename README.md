@@ -1,4 +1,4 @@
-# 📚SISTEMA GERENCIADOR DE LIVROS - BIBLIOTECA COMUNITÁRIA
+## 📚SISTEMA GERENCIADOR DE LIVROS - BIBLIOTECA COMUNITÁRIA
 <p align="justify"> Este é um sistema simples de gerenciamento de biblioteca, desenvolvido em Python, que permite realizar o controle de livros, usuários, empréstimos e devoluções de forma eficiente. O sistema possui uma interface gráfica (GUI) e armazena os dados em um arquivo de banco de dados (SQLite).
 
 ### Funcionalidades: 
